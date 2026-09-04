@@ -876,11 +876,12 @@
 
 - name: SaTML
   year: 2027
-  date: TBD
+  date: Early May (TBC)
   description: IEEE Conference on Secure and Trustworthy Machine Learning
   link: https://satml.org/
   deadline: ["2026-09-29 23:59"]
   place: Reykjavik, Iceland
+  comment: Abstract registration required (1 week before deadline AoE).
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: NordSec
